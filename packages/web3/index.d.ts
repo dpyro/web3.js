@@ -24,4 +24,4 @@ declare class Web3 {
   utils: t.Utils
 }
 
-export default Web3;
+export = Web3;
